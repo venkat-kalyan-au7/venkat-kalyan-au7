@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @venkat-kalyan-au7
 - 👀 I’m a MERN STACK DEVELOPER
-- 🌱 I’m currently learning ...AWS & EXTJS
 - 💞️ I’m looking to collaborate with freelancers
 - 📫 How to reach me ...[LinkedIn](https://www.linkedin.com/in/venkat-kalyan-bb2074116/)
 
